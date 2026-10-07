@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="mooshgfstornado"
+version="1.0.0"
+displayName="Moosh GFs Tornados"
+description="F1-F5 tornadoes and TIV/Dominator storm-chaser vehicles. /mooshgfstornado f1..f5, dominator1..4"
+[[dependencies.mooshgfstornado]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.mooshgfstornado]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

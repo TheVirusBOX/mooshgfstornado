@@ -1,0 +1,11 @@
+{
+ "entity.mooshgfstornado.tornado": "Tornado",
+ "entity.mooshgfstornado.dominator1": "Dominator 1",
+ "entity.mooshgfstornado.dominator2": "Dominator 2",
+ "entity.mooshgfstornado.dominator3": "Dominator 3",
+ "entity.mooshgfstornado.dominator4": "Dominator 4",
+ "item.mooshgfstornado.dominator1_spawn_egg": "Dominator 1 Spawn Egg",
+ "item.mooshgfstornado.dominator2_spawn_egg": "Dominator 2 Spawn Egg",
+ "item.mooshgfstornado.dominator3_spawn_egg": "Dominator 3 Spawn Egg",
+ "item.mooshgfstornado.dominator4_spawn_egg": "Dominator 4 Spawn Egg"
+}
